@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="3" revision="0" build="300"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>               
+                <node id="SpellList">Spelllist
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value="Shout_SpeakWithAnimals_BeastSpeech"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="adaf5cde-7cff-4ca2-8943-d02cb7efe015"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">Spelllist
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value="Throw_BeastlyThrow"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="ab0365b1-415a-448d-ab1d-619f6d1ef25b"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">Spelllist
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value="Shout_Harrower_Booming_Howl"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="600019c9-2a14-4968-a6df-6ba9ed6a65d1"/> the UUID, needs to be unique
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

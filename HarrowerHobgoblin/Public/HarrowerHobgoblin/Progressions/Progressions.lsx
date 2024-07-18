@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="Progressions">
+    <node id="root">                 
+      <children>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="1" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Harrower" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_HulkingHob;Passive_Brute_HulkingHob" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(adaf5cde-7cff-4ca2-8943-d02cb7efe015,,,,AlwaysPrepared)" />
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="f88032d3-7ae7-4724-bab6-9e992776ecf7" /> Always use this one for races.lsx, says this progression node is for Main Race
+                  <attribute id="UUID" type="guid" value="98da0193-6729-4364-bb5c-b13475edb3c7" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="5" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Harrower" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(ab0365b1-415a-448d-ab1d-619f6d1ef25b,,,,AlwaysPrepared)" />
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="f88032d3-7ae7-4724-bab6-9e992776ecf7" /> Always use this one for races.lsx, says this progression node is for Main Race
+                  <attribute id="UUID" type="guid" value="b065e4b1-2f62-4846-b120-d6469061afcd" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="9" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Harrower" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(600019c9-2a14-4968-a6df-6ba9ed6a65d1,,,,AlwaysPrepared)" />
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="f88032d3-7ae7-4724-bab6-9e992776ecf7" /> Always use this one for races.lsx, says this progression node is for Main Race
+                  <attribute id="UUID" type="guid" value="9bbe7dc7-beb5-4992-b39f-77e4ef584553" />  this one must be unique
+          </node>
+      </children>
+    </node>
+  </region>
+</save>
